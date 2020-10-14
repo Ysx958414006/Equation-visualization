@@ -1,0 +1,46 @@
+.intro {
+  margin: 30px;
+  text-align: center;
+}
+button{
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+}
+.button-sp-area{
+  margin: 0 auto;
+  width: 60%;
+}
+.mini-btn{
+  margin-right: 10rpx;
+}
+.imagesize{
+  display:flex;                    
+  justify-content: center;   
+  width:200px;
+  height:100px;      
+ }
+ .container {
+  background-color: #fff;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.itemView{
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 50px;
+  
+  justify-content: flex-start;
+  display: flex;
+  align-items: center;
+}
+.input{
+  width: 250px;
+  height: 50px; 
+  border: 1px solid lightgray;
+  border-radius: 25px;
+ }
