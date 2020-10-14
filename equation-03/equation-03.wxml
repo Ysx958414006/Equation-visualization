@@ -1,0 +1,14 @@
+<view style="height: 100px">
+  <cover-image src="../image/image4.png" class="imagesize"></cover-image>
+<canvas
+  type="webgl"
+  id="webgl"
+  style="width: 100%; height: 450px;"
+  bindtouchstart="onTouch"
+  bindtouchmove ="onMove"
+  bindtouchend  ="onEnd"
+></canvas>
+<button bindtap="liti" type="primary" size="mini">规则分布</button>
+<button bindtap="suiji" type="primary" size="mini">离散分布</button>
+<button bindtap="randomcolor" type="primary" size="mini">随机颜色</button>
+</view>
