@@ -1,0 +1,26 @@
+<view class="fff"><text>请选择你想要的方程
+</text>
+</view>
+<navigator url="../equation-01/equation-01" >
+<view class="choose" ><button type="primary">案例1</button>
+</view>
+</navigator>
+<navigator url="../equation-02/equation-02">
+<view class="choose" ><button type="primary">案例2</button>
+</view></navigator>
+
+<navigator url="../equation-03/equation-03">
+<view class="choose" ><button type="primary">案例3</button>
+</view></navigator>
+<navigator url="../equation-04/equation-04">
+<view class="choose" ><button type="primary">常微分方程</button>
+</view></navigator>
+<navigator url="../equation-05/equation-05">
+<view class="choose" ><button type="primary">波动方程1</button>
+</view></navigator>
+<navigator url="../equation-06/equation-06">
+<view class="choose" ><button type="primary">波动方程2</button>
+</view></navigator>
+<navigator url="../equation-07/equation-07">
+<view class="choose" ><button type="primary">热传导方程</button>
+</view></navigator>

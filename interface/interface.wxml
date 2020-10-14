@@ -1,0 +1,15 @@
+<view class='wffc'>
+<view  class="welcome" style="height: 300px">
+<text >欢迎使用微分方程解的可视化的小程序</text>
+</view>
+<view class="question" >
+<text >是否进入使用界面?</text>
+</view>
+<view class="anniu" >
+<button type="primary" bindtap='yes'>进入</button>
+<navigator  type="warn" open-type="exit" target="miniProgram">
+<view class="anniu" ><button type="warn">退出</button>
+</view>
+</navigator>
+</view>
+</view>

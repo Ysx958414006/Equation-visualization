@@ -1,0 +1,10 @@
+.fff{
+  color: rgb(20, 20, 20);
+  text-align: center;
+  margin: 25px;
+  font-size: 40rpx;
+}
+.choose{
+
+  flex-direction: column;
+}
